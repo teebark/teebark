@@ -2,8 +2,11 @@
 
 But, here you are. I'm Terry.
 
-My professional career was coding mainframe Cobol. But now, I'm a volunteer web coder working mostly in Wordpress.
+My professional career was coding mainframe Cobol. But now, I'm retired, and a volunteer web coder working mostly in Wordpress.
 Most of my work is for a local nonprofit called [IT4Causes](https://it4causes.org).
+
+[terry@teebark.com](mailto:terry@teebark.com)
+[teebark.com](teebark.com)
 
 <!--
 **teebark/teebark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
