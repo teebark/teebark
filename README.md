@@ -2,8 +2,9 @@
 
 But, here you are. I'm Terry.
 
-My professional career was coding mainframe Cobol. But now, I'm retired, and a volunteer web coder working mostly in Wordpress.
-Most of my work is for a local nonprofit called [IT4Causes](https://it4causes.org).
+My professional career was spent coding mainframe Cobol. But, even though I've retired, I continue coding as a volunteer. I work mostly with a local nonprofit called [IT4Causes](https://it4causes.org). IT4Causes works with other nonprofits as a sort of IT contractor--the nonprofits get the benefit of IT experience and professionalism, without paying corporate rates. 
+
+The benefit to me, is that I get to code, which I love, and I get exposure to lots of different clients. That, in turn, gives me the excuse to explore different technologies and techniques to solve their problems. Sometimes it's just a plugin update or a simple content update, to resurrecting a wrecked site after a virus attack.
 
 [terry@teebark.com](mailto:terry@teebark.com)    
 [teebark.com](https://teebark.com)
